@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/goinaction/code
+  subpackages:
+  - chapter3/words
